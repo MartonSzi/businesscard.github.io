@@ -1,0 +1,31 @@
+.doboz{
+    background-color:rgb(52, 159, 231);
+    display:flex;
+    height:200px;
+}
+img{
+    height:100%;
+    width:150px;
+    border-radius: 20%;
+}
+.details{
+    display:block;
+    line-height: 10px;
+}
+p{
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    margin-left:20px;
+}
+.name{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom:40px;
+    margin-top:40px;
+}
+.role{
+    font-style: italic;
+}
+.exp{
+    font-size: 15px;
+}
